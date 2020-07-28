@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="styles/index.css">
+  <title>News Aggregator</title>
+</head>
+
+<body>
+  <!-- Head Section -->
+  <div class="wrapper">
+    <header class="site-title">News Aggregator</header>
+
+    <!-- Toggle switch -->
+    <label class="switch">
+        <input type="checkbox" id="toggle_action" unchecked>
+        <div class="slider round"></div>
+    </label>
+
+    <!-- Search Bar  -->
+    <div class="search-container">
+      <input type="text" name="search" id="search" placeholder="Type and press enter to search..." />
+    </div>
+
+  </div>
+
+  <!-- News Display Area -->
+  <ul id="news-articles">
+
+  </ul>
+  <script src="./scripts/index.js"></script>
+</body>
+
+</html>
