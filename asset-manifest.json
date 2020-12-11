@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5db316e.chunk.css",
+    "main.js": "/static/js/main.3bdf7861.chunk.js",
+    "main.js.map": "/static/js/main.3bdf7861.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4a2fa906.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4a2fa906.js.map",
+    "static/js/2.b8ea5a3d.chunk.js": "/static/js/2.b8ea5a3d.chunk.js",
+    "static/js/2.b8ea5a3d.chunk.js.map": "/static/js/2.b8ea5a3d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c5db316e.chunk.css.map": "/static/css/main.c5db316e.chunk.css.map",
+    "static/js/2.b8ea5a3d.chunk.js.LICENSE.txt": "/static/js/2.b8ea5a3d.chunk.js.LICENSE.txt",
+    "static/media/Shubham-Raut_Resume.6a527bbb.pdf": "/static/media/Shubham-Raut_Resume.6a527bbb.pdf",
+    "static/media/App.css": "/static/media/Vector.767a7ff6.png",
+    "static/media/arkstudio.e95ef885.jpg": "/static/media/arkstudio.e95ef885.jpg",
+    "static/media/beerlove.6aed93a0.jpg": "/static/media/beerlove.6aed93a0.jpg",
+    "static/media/financial.91cf7b13.jpg": "/static/media/financial.91cf7b13.jpg",
+    "static/media/foodstore.3cb7f1ba.jpg": "/static/media/foodstore.3cb7f1ba.jpg",
+    "static/media/music.cb3746e0.png": "/static/media/music.cb3746e0.png",
+    "static/media/news.a5594b40.jpg": "/static/media/news.a5594b40.jpg",
+    "static/media/profile.34764b87.png": "/static/media/profile.34764b87.png",
+    "static/media/weather.93d52761.png": "/static/media/weather.93d52761.png",
+    "static/media/zomato.f8b05eb5.jpg": "/static/media/zomato.f8b05eb5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a2fa906.js",
+    "static/js/2.b8ea5a3d.chunk.js",
+    "static/css/main.c5db316e.chunk.css",
+    "static/js/main.3bdf7861.chunk.js"
+  ]
+}
